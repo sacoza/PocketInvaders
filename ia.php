@@ -7,7 +7,7 @@ class ia
 
   // Declaración de una propiedad
   public $fila = '3';
-  public $columna = '1';
+  public $columna = '0';
 
   // Declaración de un método
   public function getfila() {
